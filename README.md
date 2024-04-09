@@ -1,6 +1,6 @@
-EXP NO:01
+# EXP NO:01
 
-DATE:06-04-2023
+# DATE:23.08.23
 
 #  Mean and variance of a discrete  distribution
 
@@ -87,4 +87,3 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-
